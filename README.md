@@ -1,2 +1,4 @@
 # git_test2
 povtorenie
+git is cool
+napisal
