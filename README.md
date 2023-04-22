@@ -3,4 +3,5 @@ povtorenie
 git is cool
 napisal
 
-dobavil 
+dobavil
+-vnes
